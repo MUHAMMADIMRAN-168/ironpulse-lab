@@ -1,3 +1,4 @@
-﻿Owner: Muhammad Imran
+Owner: Muhammad Imran
+Authorization: I am the owner of this lab and authorise testing on it as of 2026-11-19.
 Target Scope: Localhost only (127.0.0.1 / local virtual lab environment)
 Out of Bounds: External networks, public IPs, third-party domains, and production systems
